@@ -13,6 +13,7 @@
 		D4C9DE7026EE68F000CD54A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4C9DE6F26EE68F000CD54A3 /* Assets.xcassets */; };
 		D4C9DE7326EE68F000CD54A3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4C9DE7226EE68F000CD54A3 /* Preview Assets.xcassets */; };
 		D4C9DE7626EE68F000CD54A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4C9DE7426EE68F000CD54A3 /* LaunchScreen.storyboard */; };
+		D4D300CB26EE6CB800466781 /* SliderStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4D300CA26EE6CB800466781 /* SliderStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4C9DE7226EE68F000CD54A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D4C9DE7526EE68F000CD54A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4C9DE7726EE68F000CD54A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4D300CA26EE6CB800466781 /* SliderStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D4C9DE6926EE68EF00CD54A3 /* AppDelegate.swift */,
 				D4C9DE6B26EE68EF00CD54A3 /* SceneDelegate.swift */,
+				D4D300CA26EE6CB800466781 /* SliderStack.swift */,
 				D4C9DE6D26EE68EF00CD54A3 /* ContentView.swift */,
 				D4C9DE6F26EE68F000CD54A3 /* Assets.xcassets */,
 				D4C9DE7426EE68F000CD54A3 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4C9DE6A26EE68EF00CD54A3 /* AppDelegate.swift in Sources */,
+				D4D300CB26EE6CB800466781 /* SliderStack.swift in Sources */,
 				D4C9DE6C26EE68EF00CD54A3 /* SceneDelegate.swift in Sources */,
 				D4C9DE6E26EE68EF00CD54A3 /* ContentView.swift in Sources */,
 			);
